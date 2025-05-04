@@ -1,0 +1,84 @@
+body{
+  height:200rem;
+  width:40rem;
+  
+}
+
+.BoutonChiffré{
+  height: 5rem;
+  width: 5rem;
+  font-size: larger;
+  border-radius: 1rem;
+
+}
+
+.EhMrc{
+  height: 2rem;
+  width:2rem;
+  background-color:#96BBD5 ;
+  color: white;
+  width: 3.5rem;
+  border-radius: 1rem;
+}
+
+.Calcul{
+background-color: #133747;
+color: white;
+height: 4rem;
+width: 4rem;
+border-radius: 1rem;
+}
+
+.Egal{
+  background-color: #133747;
+  color: white;
+  height: 5rem;
+  width: 5rem;
+  font-size: larger;
+  border-radius: 1rem;
+}
+
+  
+
+
+main{
+  height: 65rem;
+  width: 40rem;
+  background-color: #133747;
+  border-radius: 1.6rem;
+}
+
+p{
+  background-color: #687B84;
+  font-size: x-large;
+  font-weight: bold;
+  text-align: end;
+width: 15rem;
+height: 4.5rem;
+}
+
+.On{
+  height: 4rem;
+  background-color: #133747;
+  color: white;
+  border-radius: 1.5rem;
+}
+.BoutonNul{
+  background-color: #96BBD5;
+  color:white;
+  height: 2.8rem;
+  border-radius: 1rem;
+}
+.Texas{
+  color: white;
+  height: auto;
+  width: 2.6rem;
+
+}
+.Container{
+ display: grid;
+ height:9.375rem ;
+ grid-template-columns: 50rem 50rem 50 rem;
+
+
+}
